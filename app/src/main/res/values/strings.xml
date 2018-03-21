@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+
+    <string name="length_button">Length</string>
+    <string name="weight_button">Weight</string>
+    <string name="currency_button">Currency</string>
+    <string name="input_string1">0</string>
+    <string name="input_string2">0</string>
+
+    <string-array name="length_list">
+        <item>Kilometer</item>
+        <item>Meter</item>
+        <item>Milimeter</item>
+        <item>Inch</item>
+        <item>Foot</item>
+        <item>Mile</item>
+    </string-array>
+
+    <string-array name="weight_list">
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Miligram</item>
+        <item>Pound</item>
+        <item>Ton</item>
+        <item>Ounce</item>
+    </string-array>
+
+    <string-array name="currency_list">
+        <item>Philippine Peso</item>
+        <item>US Dollar</item>
+        <item>Japanese Yen</item>
+        <item>Euro</item>
+        <item>South Korean Won</item>
+    </string-array>
+
+
+</resources>
